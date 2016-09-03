@@ -1,4 +1,4 @@
-## forked from [lips](https://github.com/lipis/flag-icon-css)
+## forked from [lipis](https://github.com/lipis/flag-icon-css)
 
 The MIT License (MIT)
 
